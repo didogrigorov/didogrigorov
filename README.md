@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Dido Grigorov, a Python Developer:
+I'm Dido Grigorov, a passionate Python Developer:
 
 - 🔭 I’m currently working on my own projects.
 - 🌱 I’m currently learning Computer Science and Artificial Intelligence.
