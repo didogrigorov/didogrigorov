@@ -7,4 +7,4 @@ I'm Dido Grigorov, a passionate Python Developer:
 - 👯 I’m looking to collaborate on Python projects mostly, but I'm also open to code in other languages as well.
 - 💬 Ask me about website, web apps or CLI development. 
 - 📫 How to reach me: dido.grigorov@gmail.com
-- ⚡ Fun fact: During my free time I'love taking photos, listening to music and play the piano.
+- ⚡ Fun fact: During my free time I love visiting new places, eating good food, taking photos, listening to music and plaing the piano.
