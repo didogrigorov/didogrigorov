@@ -6,7 +6,7 @@ My latest stack:
 Python | JS | HTML | CSS |
 
 - 🔭 I’m currently working on my own projects based on various ideas - CLI and Web Apps.
-- 🌱 I’m currently learning C++, Data Structures and Algorithms
+- 🌱 I’m currently learning C++, Data Structures & Algorithms
 - 👯 I’m looking to collaborate on Python projects mostly, but I'm also open to learn and code in other languages as well.
 - 💬 Ask me about websites, web apps or CLI development. 
 - 📫 How to reach me: dido.grigorov@gmail.com or [LinkedIn](https://linkedin.com/in/didogrigorov)
