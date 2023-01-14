@@ -11,3 +11,4 @@ Python | JS | HTML | CSS |
 - 💬 Ask me about websites, web apps or CLI development. 
 - 📫 How to reach me: dido.grigorov@gmail.com or [LinkedIn](https://linkedin.com/in/didogrigorov)
 - ⚡ Fun fact: During my free time I love visiting new places, eating good food, taking photos, listening to music and plaing the piano.
+- :computer: I'm interested in Django, Data Science, Machine Learning, AI, Data Structures & Algorithms
