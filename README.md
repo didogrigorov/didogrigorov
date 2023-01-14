@@ -1,9 +1,6 @@
-### Hi there 👋
+### I'm Dido Grigorov, passionate developer 👋
 
-I'm Dido Grigorov, a passionate developer
-
-My latest stack:
-Python | JS | HTML | CSS |
+My latest stack: Python | JS | HTML | CSS |
 
 - 🔭 I’m currently working on my own projects based on various ideas - CLI and Web Apps.
 - 🌱 I’m currently learning C++, Data Structures & Algorithms
