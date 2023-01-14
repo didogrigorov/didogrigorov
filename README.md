@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-I'm Dido Grigorov, a passionate Python Developer:
+I'm Dido Grigorov, a passionate developer
 
-- 🔭 I’m currently working on my own projects.
-- 🌱 I’m currently learning Computer Science and Artificial Intelligence.
-- 👯 I’m looking to collaborate on Python projects mostly, but I'm also open to code in other languages as well.
-- 💬 Ask me about website, web apps or CLI development. 
-- 📫 How to reach me: dido.grigorov@gmail.com
+My latest stack:
+Python | JS | HTML | CSS |
+
+- 🔭 I’m currently working on my own projects based on various ideas - CLI and Web Apps.
+- 🌱 I’m currently learning C++, Data Structures and Algorithms
+- 👯 I’m looking to collaborate on Python projects mostly, but I'm also open to learn and code in other languages as well.
+- 💬 Ask me about websites, web apps or CLI development. 
+- 📫 How to reach me: dido.grigorov@gmail.com or [LinkedIn](https://linkedin.com/in/didogrigorov)
 - ⚡ Fun fact: During my free time I love visiting new places, eating good food, taking photos, listening to music and plaing the piano.
