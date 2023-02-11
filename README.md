@@ -9,8 +9,7 @@
 
 [![DidoGrigorov's GitHub stats](https://github-readme-stats.vercel.app/api?username=didogrigorov)](https://github.com/didogrigorov/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didogrigorov)](https://github.com/didogrigorov/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didogrigorov&layout=compact)](https://github.com/didogrigorov/github-readme-stats)
 
 - 🔭 I’m currently working on my own projects based on various ideas - CLI and Web Apps.
 - 🌱 I’m currently learning C++, Data Structures & Algorithms
