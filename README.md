@@ -1,4 +1,4 @@
-# I'm Dido Grigorov, passionate developer 👋
+# I'm Dido Grigorov Passionate Backend Developer 👋
 
 #### My latest stack: <br>
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didogrigorov&layout=compact)](https://github.com/didogrigorov/github-readme-stats)
 
 - 🔭 I’m currently working on my own projects based on various ideas - CLI and Web Apps.
-- 🌱 I’m currently learning Data Structures & Algorithms, Data Science, Machine Learning & AI
+- 🌱 I’m currently learning Data Structures & Algorithms & Advanced Programming Concepts.
 - 👯 I’m looking to collaborate on Python projects mostly, but I'm also open to learn and code in other languages as well.
 - 💬 Ask me about websites, web apps or CLI development. 
 - 📫 How to reach me: dido.grigorov@gmail.com or [LinkedIn](https://linkedin.com/in/didogrigorov)
