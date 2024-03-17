@@ -11,10 +11,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didogrigorov&layout=compact)](https://github.com/didogrigorov/github-readme-stats)
 
-- 🔭 I’m currently working on my own projects based on various ideas - CLI and Web Apps.
-- 🌱 I’m currently learning Data Structures & Algorithms & Advanced Programming Concepts.
-- 👯 I’m looking to collaborate on Python projects mostly, but I'm also open to learn and code in other languages as well.
-- 💬 Ask me about websites, web apps or CLI development. 
+- 🔭 I’m currently working on my own projects based on various ideas - CLI and Web Apps, AI & Data Science.
+- 👯 I’m looking to collaborate on Python projects mostly, but I'm also open to learn and code in other languages as well like Java, Javascript or C++.
+- 💬 Ask me about Websites, Web apps, Data Science & AI projects or CLI projects development. 
 - 📫 How to reach me: dido.grigorov@gmail.com or [LinkedIn](https://linkedin.com/in/didogrigorov)
 - ⚡ Fun fact: During my free time I love visiting new places, hanging out with friends, eating good food, taking photos, listening to music and plaing the piano.
 - :computer: I'm interested in Python, Django, CLIs, Web Apps Dev, Data Science, Machine Learning, AI, Data Structures & Algorithms
