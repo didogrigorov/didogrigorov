@@ -11,6 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didogrigorov&layout=compact)](https://github.com/didogrigorov/github-readme-stats)
 
+
 - 🔭 I’m currently working on my own projects based on various ideas - CLI and Web Apps, AI & Data Science.
 - 👯 I’m looking to collaborate on Python projects mostly, but I'm also open to learn and code in other languages as well like Java, Javascript or C++.
 - 💬 Ask me about Websites, Web apps, Data Science & AI projects, LLM projects, or CLI projects development. 
