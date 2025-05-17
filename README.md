@@ -8,6 +8,26 @@
 
 [![DidoGrigorov's GitHub stats](https://github-readme-stats.vercel.app/api?username=didogrigorov)](https://github.com/didogrigorov/github-readme-stats)
 
+## Author for Springer Nature
+
+I;m the author of two books for the prestigious **Springer Nature** academic publisher, one of them adopted and approved by more than **300 academic libraries**, including:
+
+- MIT  
+- Harvard  
+- Stanford  
+- Carnegie Mellon  
+- Northeastern University  
+- The New York University School of Medicine  
+- Colorado State University  
+- Sunnyvale Public Library
+
+### Published Titles
+
+1. [**Introduction to Python and Large Language Models**](https://link.springer.com/book/10.1007/979-8-8688-0540-0)  
+   *(Approved by 300+ academic libraries)*
+
+2. **Intermediate Python and Large Language Models**
+
 - 🔭 I’m currently working on my own PyTorch Library which will be released soon. Stay tuned!
 - 👯 I’m looking to collaborate on Python projects mostly, but I'm also open to learn and code in other languages as well like Java, Rust, Golang, Javascript or C++.
 - 💬 Ask me about Machine Learning / Deep Learning / AI Projects, Web apps, LLM projects, or CLI projects development. 
